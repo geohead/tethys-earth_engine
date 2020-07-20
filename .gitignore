@@ -3,6 +3,10 @@
 *.egg-info
 *.class
 *.pyo
+*.shp
+*.shx
+*.dbf
+*.json
 *.pyc
 *.db
 *.sqlite
